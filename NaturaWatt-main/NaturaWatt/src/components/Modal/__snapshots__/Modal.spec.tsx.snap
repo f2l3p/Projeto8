@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`Modal renders message and close button when open 1`] = `<DocumentFragment />`;
